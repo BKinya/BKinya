@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Beatrice Kinya, and Android developer. I create native Android apps using Kotlin. I enjoy participating in developer communities. I give talks and write blogs on things Android and Kotlin. 
+I am Beatrice Kinya, and Android developer. I create native Android apps using Kotlin. :] I love participating in developer communities. I give talks and write blogs on things Android and Kotlin. 
 
 ### Articles/Blogs
 
