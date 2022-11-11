@@ -13,4 +13,4 @@ I am Beatrice Kinya, an Android Engineer and Author for Android team at raywende
 
 ### Webinars
 - [Introduction to Jetpack DataStore](https://www.youtube.com/watch?v=oZXIjWTLjAw)
-- [Modern Android Development Using MVI Architecture](https://www.youtube.com/watch?v=AGpyxybnjj4&t=2s)
+
