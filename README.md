@@ -4,9 +4,10 @@ I am Beatrice Kinya, an Android Engineer and Author for Android team at raywende
 
 ### Articles/Blogs
 
-#### [raywenderlich.com](https://www.raywenderlich.com/home)
-- [Surviving Configuration Changes in Android](https://www.raywenderlich.com/33044382-surviving-configuration-changes-in-android)
+#### [Kodeco.com](https://www.kodeco.com/u/bkinya)
 - [Building for Large Screens and foldables in Android | Jetpack compose](https://www.kodeco.com/34785195-large-screens-foldables-tutorial-for-android)
+- [Surviving Configuration Changes in Android](https://www.raywenderlich.com/33044382-surviving-configuration-changes-in-android)
+
 
 #### Hashnode
 - [Migrating SharedPreferences to Jetpack DataStore](https://kinya.hashnode.dev/migrating-sharedpreferences-to-datastore-ckxzlvda101by8rs1c8bg4wdx)
