@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Beatrice Kinya, an Android Engineer and Author for Android team at raywenderlich.com. I am passionate about developer communities. I give talks and write blogs on things Android and Kotlin. In my spare time, I enjoy crochet and knitting
+I am Beatrice Kinya, Author for Android team at Kodeco and and Android Engineer. I am passionate about developer communities. I give talks and write blogs on things Android and Kotlin. In my spare time, I enjoy crochet and knitting
 
 ### Articles/Blogs
 
