@@ -10,6 +10,7 @@ I am Beatrice Kinya, Author for Android team at Kodeco and and Android Engineer.
 
 
 #### Hashnode
+- [Custom Compose Layouts](https://kinya.hashnode.dev/custom-compose-layouts-clf5ua9jw01mms1nv5k6d84zp)
 - [Migrating SharedPreferences to Jetpack DataStore](https://kinya.hashnode.dev/migrating-sharedpreferences-to-datastore-ckxzlvda101by8rs1c8bg4wdx)
 - [Composition in Flutter](https://kinya.hashnode.dev/composition-in-flutter-ckepqbojt02g7kps1224cbrdg)
 
