@@ -3,7 +3,7 @@
 I am Beatrice Kinya, an Android Engineer and Google Developer Expert for Android. My favorite part of Android is App architecture. I enjoy experimenting with different architectural design patterns. I’m passionate about learning and sharing knowledge with others. I write technical blogs, create Android courses as well as  speak at tech meet-ups and conferences.
 
 ### Droidcon
-- [Coil Library: Guide to handling images in Android Jetpack Compose]( https://academy.droidcon.com/course/coil-library-guide-to-handling-images-in-android-jetpack-compose)
+- [Coil Library: Guide to handling images in Android Jetpack Compose]( https://academy.droidcon.com/course/coil-library-guide-to-handling-images-in-android-jetpack-compose)[Video course]
 
 ### Articles/Blogs
 
