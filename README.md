@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am Beatrice Kinya, Author for Android team at Kodeco and and Android Engineer. I am passionate about developer communities. I give talks and write blogs on things Android and Kotlin. In my spare time, I enjoy crochet and knitting
+I am Beatrice Kinya, an Android Engineer and Google Developer Expert for Android. My favorite part of Android is App architecture. I enjoy experimenting with different architectural design patterns. I’m passionate about learning and sharing knowledge with others. I write technical blogs, create Android courses as well as  speak at tech meet-ups and conferences.
+
+### Droidcon
+- [Coil Library: Guide to handling images in Android Jetpack Compose]( https://academy.droidcon.com/course/coil-library-guide-to-handling-images-in-android-jetpack-compose)
 
 ### Articles/Blogs
 
