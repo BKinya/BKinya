@@ -5,6 +5,7 @@ I am Beatrice Kinya, an Android Engineer and Google Developer Expert for Android
 ### Droidcon
 #### Video Courses
 - [Coil Library: Guide to handling images in Android Jetpack Compose]( https://academy.droidcon.com/course/coil-library-guide-to-handling-images-in-android-jetpack-compose)
+- [Mastering Swipe To Action With Jetpack Compose in Android](https://academy.droidcon.com/course/mastering-swipe-to-action-with-jetpack-compose-in-android)
 
 ### Articles/Blogs
 
