@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Beatrice Kinya, an Android Engineer and Google Developer Expert for Android. My favorite part of Android is App architecture. I enjoy experimenting with different architectural design patterns. I’m passionate about learning and sharing knowledge with others. I write technical blogs, create Android courses as well as  speak at tech meet-ups and conferences. In my spare time, you'd find me in the mountains hiking or just knitting
+I am Beatrice Kinya, an Android Engineer and Google Developer Expert for Android. I’m passionate about learning and sharing knowledge with others. I write technical blogs, create Android courses as well as  speak at tech meet-ups and conferences. In my spare time, you'd find me in the mountains hiking or just knitting
 
 ### Droidcon
 #### Video Courses
