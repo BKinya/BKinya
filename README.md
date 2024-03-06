@@ -9,13 +9,14 @@ I am Beatrice Kinya, an Android Engineer and Google Developer Expert for Android
 
 ### Articles/Blogs
 
+### Medium
+- [Destructuring Assignment - Nested Destructuring](https://kinya.medium.com/destructuring-assignment-nested-deconstruction-part-2-2-6f4e32628ae0)
+- [Destructuring Assignment - Kotlin vs Scala](https://kinya.medium.com/destructuring-assignment-kotlin-vs-scala-07e0e3bf2602)
 - [Android FAQ](https://github.com/BKinya/Android-FAQ)
-
-#### [Hashnode](https://kinya.hashnode.dev)
 - [Custom Compose Layouts: SubcomposeLayout](https://kinya.hashnode.dev/custom-compose-layouts-clf5ua9jw01mms1nv5k6d84zp)
 - [Migrating SharedPreferences to Jetpack DataStore](https://kinya.hashnode.dev/migrating-sharedpreferences-to-datastore-ckxzlvda101by8rs1c8bg4wdx)
 - [Composition in Flutter](https://kinya.hashnode.dev/composition-in-flutter-ckepqbojt02g7kps1224cbrdg)
-- [Android Navigation components series](https://kinya.hashnode.dev/series/android-navigation-components)
+
 
 #### [Kodeco](https://www.kodeco.com/u/bkinya)
 - [Building for Large Screens and foldables in Android | Jetpack compose](https://www.kodeco.com/34785195-large-screens-foldables-tutorial-for-android)
