@@ -9,7 +9,7 @@ I am Beatrice Kinya, an Android Engineer and Google Developer Expert for Android
 
 ### Articles/Blogs
 
-### Medium
+#### Medium
 - [Destructuring Assignment - Nested Destructuring](https://kinya.medium.com/destructuring-assignment-nested-deconstruction-part-2-2-6f4e32628ae0)
 - [Destructuring Assignment - Kotlin vs Scala](https://kinya.medium.com/destructuring-assignment-kotlin-vs-scala-07e0e3bf2602)
 - [Android FAQ](https://github.com/BKinya/Android-FAQ)
